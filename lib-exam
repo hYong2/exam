@@ -1,0 +1,13 @@
+#pragma once
+
+#incldue "targetver.h"
+
+#define WIN32_AND_MEAN
+
+#incldue <stdio.h>
+#include <time.h>
+
+void main()
+{
+  
+}
